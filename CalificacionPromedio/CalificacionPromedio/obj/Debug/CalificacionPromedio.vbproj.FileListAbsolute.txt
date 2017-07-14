@@ -1,0 +1,33 @@
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.exe.config
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.exe
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.pdb
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.xml
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.vbprojResolveAssemblyReference.cache
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.Form1.resources
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.Resources.resources
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.vbproj.GenerateResource.Cache
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.exe
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.xml
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VI CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.pdb
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.exe.config
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.exe
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.xml
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.pdb
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.exe
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.pdb
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.xml
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.vbprojResolveAssemblyReference.cache
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.Form1.resources
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.Resources.resources
+E:\CARRERA DE INGENIERIA DE SISTEMAS\V CICLO\LABORATORIO DE PROGRAMACIÓN\UNIDAD II\ejemplos clase3\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.vbproj.GenerateResource.Cache
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.exe.config
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.exe
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.xml
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.pdb
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.exe
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.pdb
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\bin\Debug\CalificacionPromedio.xml
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.vbprojResolveAssemblyReference.cache
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.Form1.resources
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.Resources.resources
+E:\CARRERA DE INGENIERIA DE SISTEMAS\VII CICLO\EVOLUCIÓN DE SOFTWARE\UNIDAD I\CalificacionPromedio\CalificacionPromedio\obj\Debug\CalificacionPromedio.vbproj.GenerateResource.Cache
